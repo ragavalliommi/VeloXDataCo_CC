@@ -55,4 +55,5 @@ When finished, delete the node_modules directory (if applicable) and create eith
 Commands:
 
 node index.js file.txt
+
 npm test
